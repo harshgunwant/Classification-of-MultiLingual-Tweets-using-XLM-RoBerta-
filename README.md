@@ -88,14 +88,6 @@ We created a web portal for authorized users to access the data we collected and
 
 Fig. Home Page of Web Portal.
 
-![Image](CodeMixedImages/img11.jpg)
-
-Fig. About the Project
- 
-![Image](CodeMixedImages/img12.jpg)
-
-Fig. About the Team
-
 ![Image](CodeMixedImages/img13.jpg)
 
 Fig.Login Page to authorize users
